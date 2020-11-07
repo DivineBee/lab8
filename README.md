@@ -71,9 +71,9 @@ the form of an activation or confirmation link.
 
 ## Output Example:  
 
-![Alt text](src\main\resources\screens\send-link1-min.png?raw=true "register")  
+![Alt text](https://raw.githubusercontent.com/DivineBee/lab8/master/src/main/resources/screens/send-link1-min.png?raw=true "register")  
 
-![Alt text](src\main\resources\screens\Снимок.PNG?raw=true "confirmation")  
+![Alt text](https://raw.githubusercontent.com/DivineBee/lab8/master/src/main/resources/screens/Снимок.PNG?raw=true "confirmation")  
 
 ## Status
 Project is: _finished_
